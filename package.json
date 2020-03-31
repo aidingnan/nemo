@@ -1,0 +1,22 @@
+{
+  "name": "nemo",
+  "version": "0.1.0",
+  "description": "networkmanager dbus-api simplified for single wireless adapter",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidingnan/nemo.git"
+  },
+  "author": "matianfu@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidingnan/nemo/issues"
+  },
+  "homepage": "https://github.com/aidingnan/nemo#readme"
+}
