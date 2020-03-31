@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/aidingnan/nemo/issues"
   },
-  "homepage": "https://github.com/aidingnan/nemo#readme"
+  "homepage": "https://github.com/aidingnan/nemo#readme",
+  "dependencies": {
+    "@matianfu/woodstock": "^0.2.0"
+  }
 }
